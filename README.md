@@ -1,2 +1,1 @@
-# AI-emotion-Detector
-Web App AI emotion Detector with flask
+# Repository for final project
